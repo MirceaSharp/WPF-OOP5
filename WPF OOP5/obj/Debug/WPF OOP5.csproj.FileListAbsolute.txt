@@ -1,0 +1,15 @@
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\bin\Debug\WPF OOP5.exe.config
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\bin\Debug\WPF OOP5.exe
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\bin\Debug\WPF OOP5.pdb
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\MainWindow.g.cs
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\App.g.cs
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5_MarkupCompile.cache
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5_MarkupCompile.lref
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\MainWindow.baml
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5.g.resources
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF_OOP5.Properties.Resources.resources
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5.exe
+C:\Users\mirce\source\repos\WPF OOP5\WPF OOP5\obj\Debug\WPF OOP5.pdb
