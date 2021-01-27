@@ -29,17 +29,21 @@ namespace WPF_OOP5
             else if (rdEmployee.IsChecked == true)
             {
                 Employee myEmployee = new Employee(txtFirst.Text, txtLast.Text, Convert.ToDecimal(txtSalary.Text));
+                EmployeesList.Add(myEmployee);
+                lbDisplay.ItemsSource = EmployeesList;
             }
             else if (rdHourly.IsChecked == true)
 
             {
                 HourlyWorker myHourlyWorker = new HourlyWorker(txtFirst.Text, txtLast.Text, Convert.ToDecimal(txtSalary.Text), Convert.ToInt32(txtNumber.Text));
-
+                EmployeesList.Add(myHourlyWorker);
+                lbDisplay.ItemsSource = EmployeesList;
             }
             else if(rdTemporary.IsChecked ==true)
             {
                 TemporaryWorker myTemporaryWorker = new TemporaryWorker(txtFirst.Text, txtLast.Text, Convert.ToDecimal(txtSalary), Convert.ToInt32(txtNumber.Text));
-
+                EmployeesList.Add(myTemporaryWorker);
+                lbDisplay.ItemsSource = EmployeesList;
             }
             else
             {
