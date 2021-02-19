@@ -41,7 +41,7 @@ namespace WPF_OOP5
             }
             else if(rdTemporary.IsChecked ==true)
             {
-                TemporaryWorker myTemporaryWorker = new TemporaryWorker(txtFirst.Text, txtLast.Text, Convert.ToDecimal(txtSalary), Convert.ToInt32(txtNumber.Text));
+                TemporaryWorker myTemporaryWorker = new TemporaryWorker(txtFirst.Text, txtLast.Text, Convert.ToDecimal(txtSalary.Text), Convert.ToInt32(txtNumber.Text));
                 EmployeesList.Add(myTemporaryWorker);
                 lbDisplay.ItemsSource = EmployeesList;
             }

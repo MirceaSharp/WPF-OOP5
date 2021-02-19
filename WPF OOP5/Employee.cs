@@ -31,7 +31,7 @@ namespace WPF_OOP5
         }
         public override string ToString()
         {
-            return  FirstName +  LastName + Income() + "€";
+            return  FirstName +    "      " +  LastName +   "           " +  Income() + "€";
         }
         public virtual decimal Income()
         {
